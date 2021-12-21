@@ -1,6 +1,6 @@
-**# THIS GUIDE IS NOT UP TO DATE WITH THE NEW FILES, A NEW GUIDE IS IN THE WORKS**
+# THIS GUIDE IS NOT UP TO DATE WITH THE NEW FILES, A NEW GUIDE IS IN THE WORKS
 
-The original project was missing stuff that I wanted to see in a GC controller. I modified pretty much the whole design but the spacing is still correct. I also used an arduino for this and made it so you can fully take it apart for maintenance for example. 
+The original project was missing stuff that I wanted to see in a GC controller. I modified pretty much the whole design but the spacing is still correct. I also used an arduino for this to make it work on a Nintendo Switch (currently the only supported code) and made it so you can fully take it apart for maintenance for example. 
 
 ![controller](renders/controller.png)
 
