@@ -6,6 +6,10 @@ The original project was missing stuff that I wanted to see in a GC controller. 
 
 ---
 
+# Original guide
+
+---
+
 # Groove Coaster Controller
 GrooveCoaster Controller replica with dimensions from real cabinet  
 Box is 20 x 10 x 56.5 cm
