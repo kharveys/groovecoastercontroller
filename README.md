@@ -1,3 +1,11 @@
+**# THIS GUIDE IS NOT UP TO DATE WITH THE NEW FILES, A NEW GUIDE IS IN THE WORKS**
+
+The original project was missing stuff that I wanted to see in a GC controller. I modified pretty much the whole design but the spacing is still correct. I also used an arduino for this and made it so you can fully take it apart for maintenance for example. 
+
+![controller](renders/controller.png)
+
+---
+
 # Groove Coaster Controller
 GrooveCoaster Controller replica with dimensions from real cabinet  
 Box is 20 x 10 x 56.5 cm
