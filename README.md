@@ -29,7 +29,7 @@ The original project was missing stuff that I wanted to see in a GC controller. 
 - Everything in the laser_cut_files folder (amount is specified)
 
 # things of note
-You will have to cut the flightstick shaft in other for it to fit is the joy_tube, cut it 2mm aboven the circular part (around where the red line is)
+You will have to cut the flightstick shaft in other for it to fit is the joy_tube, cut it 2mm aboven the circular part (around where the red line is). You can remove the shaft by removing the ring that's on the underside.
 ![flightstick](renders/flightstick.png)
 
 For the inside I added a picture I still had, not the best but should give you an idea of how it will look in the end
