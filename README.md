@@ -1,12 +1,8 @@
-# THIS GUIDE IS NOT UP TO DATE WITH THE NEW FILES, A NEW GUIDE IS IN THE WORKS
+# THIS GUIDE IS INCOMPLETE BUT SHOULD GIVE YOU A GENERAL DIRECTION
 
 The original project was missing stuff that I wanted to see in a GC controller. I modified pretty much the whole design but the spacing is still correct. I also used an arduino for this to make it work on a Nintendo Switch (currently the only supported code) and made it so you can fully take it apart for maintenance for example. 
 
 ![controller](renders/controller.png)
-
----
-
-# Incomplete guide but should give a general direction
 
 ---
 
@@ -37,7 +33,7 @@ You will have to cut the flightstick shaft in other for it to fit is the joy_tub
 ![flightstick](renders/flightstick.png)
 
 For the inside I added a picture I still had, not the best but should give you an idea of how it will look in the end
-![inside](renders/inside.png)
+![inside](renders/inside.jpg)
 
 Twisting the joy_stick on is kind of hard with this setup, you should kinda put it in on an angle and then you'll be able to twist it in. You might have to screw around with the 60mm button orientation.
 
