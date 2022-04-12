@@ -32,7 +32,7 @@ The original project was missing stuff that I wanted to see in a GC controller. 
 You will have to cut the flightstick shaft in other for it to fit is the joy_tube, cut it 2mm aboven the circular part (around where the red line is). You can remove the shaft by removing the ring that's on the underside.
 ![flightstick](renders/flightstick.png)
 
-For the inside I added a picture I still had, not the best but should give you an idea of how it will look in the end
+For the inside I added a picture I still had, not the best but should give you an idea of how it will look in the end. As you can see I used 2 spacers per side instead of 3. You can probably just try some stuff with other thicknesses and amounts.
 ![inside](renders/inside.jpg)
 
 Twisting the joy_stick on is kind of hard with this setup, you should kinda put it in on an angle and then you'll be able to twist it in. You might have to screw around with the 60mm button orientation.
