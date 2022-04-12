@@ -6,25 +6,22 @@ The original project was missing stuff that I wanted to see in a GC controller. 
 
 ---
 
-# Original guide
+# Incomplete guide but should give a general direction
 
 ---
 
-# Groove Coaster Controller
-GrooveCoaster Controller replica with dimensions from real cabinet  
-Box is 20 x 10 x 56.5 cm
-
 # needed
-- a teensy 3.2 or 3.1
+- arduino pro micro
 - a 3D printer
 - a laser cutting machine
-- 5mm plywood
-- 2 x seimitsu LS32-SE joysticks
+- 5mm acrylic
+- 5mm MDF
+- 9mm MDF
+- 2 x chinese flight sticks
 - 2 x 60mm buttons
-- 2 screws for locking the top of the sticks
-- 2 x large 6mm washers
-- 2 x anti vibration 6mm nuts
-- 8 x computer fan screws
+- 2 screws for locking the top of the sticks (not manditory)
+- Various bolts and nuts for securing the acrylic to the wood and the joy_base (will update later with amounts, just make sure to get long bolts for the spacers/joy_base)
+- 6 x bumpon
 - wood glue
 
 # things to 3d print
@@ -33,28 +30,15 @@ Box is 20 x 10 x 56.5 cm
 - 2 x joy_tube.stl
 
 # things to laser cut
-- 2 x box_side.dxf
-- 2 x box_insert.dxf (goes on box_middle, helps for rigidity)
-- 1 x box_front.dxf
-- 1 x box_front.dxf (with a cut for your usb panel mount adapter)
-- 1 x box_top.dxf
-- 1 x box_middle.dxf
-- 1 x box_bottom.dxf
+- Everything in the laser_cut_files folder (amount is specified)
 
-# assembly
-### warning: look at the picture ! be careful on which way goes up during the box assembly ! box_middle should be closer to top, not to bottom
-- assemble the printed joy_tube on the ls32 sticks using the washer and the nut
-- screw the ls32s to the box_middle (joysticks under the board) using the fan screws
-- glue the joy_bases to the box_top (wood glue should do it)
-- assemble the sides, front and top panel using the glue
-- assemble the 60mm buttons on the joy_sticks, and solder the wires to them
-- assemble the joy_sticks on the joy_tube
-- solder wires to the ls32s 
-- solder everything to the teensy
-- assemble bottom panel and then rear panel when you confirmed everything works
+# things of note
+You will have to cut the flightstick shaft in other for it to fit is the joy_tube, cut it 2mm aboven the circular part (around where the red line is)
+![flightstick](renders/flightstick.png)
 
-# soldering
-- Solder a GND wire to all leds and buttons
-- Solder pins A5, A6, A7, A8 and 3, 4, 5, 6 to left and right joysticks
-- Solder pins A4 and 7 to left and right buttons
-- Solder pins A3 and 8 to left and right leds
+For the inside I added a picture I still had, not the best but should give you an idea of how it will look in the end
+![inside](renders/inside.png)
+
+Twisting the joy_stick on is kind of hard with this setup, you should kinda put it in on an angle and then you'll be able to twist it in. You might have to screw around with the 60mm button orientation.
+
+Feel free to ask me questions on discord: Harvey#7954
